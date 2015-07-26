@@ -1,2 +1,2 @@
 Houston.add_collection(Meteor.users);
-//Houston.add_collection(Meteor.movies); //test222
+//Houston.add_collection(Meteor.movies); //test2224
